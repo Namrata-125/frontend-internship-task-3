@@ -317,12 +317,12 @@ Examples include:
 •	Reduced-motion media query support 
 📸 Screenshots
 Desktop – Light Mode
-![Desktop Light Mode](Screenshot/DesktopLightmode.png)
+![Desktop Light Mode](Screenshot/Desktop.Lightmode.png)
  
 
 
 Desktop – Dark Mode
-![Desktop Dark Mode](Screenshot/DesktopDarkmode.png)
+![Desktop Dark Mode](Screenshot/Desktop.Darkmode.png)
  
 Mobile Navigation
 ![Mobile Navigation](Screenshot/MobileNavigation.png)
