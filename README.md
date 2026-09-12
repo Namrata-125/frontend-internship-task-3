@@ -315,6 +315,8 @@ Examples include:
 •	Keyboard-friendly buttons and links 
 •	Responsive text and layouts 
 •	Reduced-motion media query support 
+
+```markdown
 ## 📸 Screenshots
 
 ### Desktop – Light Mode
