@@ -316,7 +316,6 @@ Examples include:
 •	Responsive text and layouts 
 •	Reduced-motion media query support 
 
-```markdown
 ## 📸 Screenshots
 
 ### Desktop – Light Mode
