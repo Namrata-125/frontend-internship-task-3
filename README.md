@@ -315,23 +315,21 @@ Examples include:
 •	Keyboard-friendly buttons and links 
 •	Responsive text and layouts 
 •	Reduced-motion media query support 
-📸 Screenshots
-Desktop – Light Mode
-![Desktop Light Mode](Screenshot/DesktopLightmode.png)
- 
+## 📸 Screenshots
 
+### Desktop – Light Mode
+![Desktop Light Mode](Screenshot/Desktop.Lightmode.png)
 
-Desktop – Dark Mode
-![Desktop Dark Mode](Screenshot/DesktopDarkmode.png)
- 
-Mobile Navigation
+### Desktop – Dark Mode
+![Desktop Dark Mode](Screenshot/Desktop.Darkmode.png)
+
+### Mobile Navigation
 ![Mobile Navigation](Screenshot/MobileNavigation.png)
- 
 
-Project Filtering
+### Project Filtering
 ![Project Filtering](Screenshot/ProjectFiltering.png)
- 
-Contact Form Validation
+
+### Contact Form Validation
 ![Contact Form Validation](Screenshot/ContactFormValidation.png)
  
 
