@@ -361,7 +361,7 @@ Possible future improvements include:
 GitHubRepository:
 https://github.com/Namrata-125/frontend-internship-task-3
 LiveDemo:
-https://namrata-125.github.io/frontend-internship-task-3/
+ https://namrata-125.github.io/frontend-internship-task-3/
 ✅ Conclusion
 This project successfully transforms a static responsive portfolio into an interactive web experience using HTML5, CSS3 and vanilla JavaScript.
 The implementation demonstrates practical use of DOM manipulation, event handling, form validation, localStorage, dynamic filtering, scroll interactions and IntersectionObserver.The website was manually tested at 1920 × 1080, 1366 × 768, 768 × 1024 and 390 × 844 to verify responsive behavior across desktop, tablet and smartphone layouts.
